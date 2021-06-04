@@ -6,4 +6,8 @@ Screenshots of the Image and the Output:
 
 ![2021-06-04 (2)](https://user-images.githubusercontent.com/73868221/120846549-e94c0280-c58f-11eb-8b0a-cc8a184c5892.png)
 
+(OUTPUT):
+
+![2021-06-04 (3)](https://user-images.githubusercontent.com/73868221/120846652-113b6600-c590-11eb-97a0-7788c442f241.png)
+
 
